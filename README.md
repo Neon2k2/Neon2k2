@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, .NET, SSIS, MS SQL, ETL<br>🌱 I’m currently learning Django, Azure<br>💬 Ask me about Python<br>
+🔭 I’m currently working on Python, .NET, SSIS, MS SQL, ETL<br>🌱 I’m currently exploring Data Science<br>💬 Feel free to connect with me for any work<br>
 
 
 ## 🌐 Socials:
